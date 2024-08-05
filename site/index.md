@@ -3,10 +3,14 @@ title: Letter
 layout: home
 ---
 
-# Letter
+# The Letter
 
-Developers and aspiring studios that want to make games for a living and continue as indies
-should do everything they can to achieve these goals, including marketing!
+
+Hi, I'm Iliyan, a seasoned software programmer. Like many of us in the tech world, I’ve always struggled when it came to marketing my own side ventures. That’s why I decided to collect and organize my thoughts into this marketing letter for myself. It’s designed to help developers like us confidently navigate social media, networking, and content creation.
+
+The hard truth is, marketing is a necessity. It’s the key to getting your product noticed, attracting your first customers, and building a standout brand. I know how tough it can be for a developer to shift gears and think about marketing. But just like the great book *It Doesn't Have to Be Crazy at Work* by 37signals, I believe marketing doesn’t have to be overwhelming for us either.
+
+In this letter, you’ll find a collection of thoughts and nuggets of wisdom I’ve picked up from others and through my own experiences. The intent is to serve as a roadmap and quick reference for those moments when you need a bit of guidance in your marketing efforts.
 
 **Table of Contents**
 1. [Introduction](#introduction)
@@ -144,29 +148,29 @@ You don’t need to invest your entire day to make meaningful progress. Just one
 
 Here's an example of weekly activity schedule 👇
 
-**Monday: Social Media Engagement**
-- **Post:** Share an insightful article or your thoughts on a recent development trend.
-- **Comment:** Engage with others’ posts in your field—offer insights or ask questions.
-- **Follow People:** Identify and follow influential developers or thought leaders.
+Monday: Social Media Engagement
+- Post: Share an insightful article or your thoughts on a recent development trend.
+- Comment: Engage with others’ posts in your field—offer insights or ask questions.
+- Follow People: Identify and follow influential developers or thought leaders.
 
-**Tuesday Activity: Visual Content**
-- **Create GIFs:** Capture your work process in GIFs to showcase your skills and projects.
-- **Work Screen:** Share a screenshot of your current project or workspace.
-- **Figjam:** Use Figjam for quick visual brainstorming and annotate with brief text.
+Tuesday Activity: Visual Content
+- Create GIFs: Capture your work process in GIFs to showcase your skills and projects.
+- Work Screen: Share a screenshot of your current project or workspace.
+- Figjam: Use Figjam for quick visual brainstorming and annotate with brief text.
 
-**Wednesday Activity: Networking**
-- **Chat with Other Developers:** Reach out to fellow developers in your network.
+Wednesday Activity: Networking
+- Chat with Other Developers: Reach out to fellow developers in your network.
 
-**Thursday Activity: Short Post Creation**
-- **Write a Short Post (300-400 words):** Share an experience, tutorial, or insights.
-- **Cross-Post:** Share it across your social media platforms for broader reach.
+Thursday Activity: Short Post Creation
+- Write a Short Post (300-400 words): Share an experience, tutorial, or insights.
+- Cross-Post: Share it across your social media platforms for broader reach.
 
-**Friday Activity: Content Repurposing**
-- **Repurpose Old Content:** Update older blog posts or tutorials and share again.
+Friday Activity: Content Repurposing
+- Repurpose Old Content: Update older blog posts or tutorials and share again.
 
 Remember, even just one hour a day can lead to meaningful development in your professional presence and connections. Stay focused, and enjoy the process!
 
-## **Bucket of ideas (when stuck)**
+## **Bucket of ideas (when you stuck)**
 
 When you're feeling stuck as a SaaS founder, consider these actionable marketing ideas to boost your visibility and engage your audience:
 
