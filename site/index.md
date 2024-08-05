@@ -31,19 +31,20 @@ Dear Self,
 
 I wrote this marketing handbook for you, so you can read it and have it as a pocket reference. Remember, the goal of marketing is to help you or your product get noticed.
 
-Marketing can take many forms, including promotions, direct communications, advertising, product positioning, placement, and distribution choices. As a non-marketing expert, it's important to stick to your principles and avoid activities you don't want to spend time on.
-
 ## **Principles**
 
+Marketing can take many forms, including promotions, direct communications, advertising, product positioning, placement, and distribution choices. 
+
+As a non-marketing expert, it’s important to stick to your principles and avoid activities you don’t want to spend time on.
 - Don’t publish content you wouldn’t share yourself
-- Don't make claims that aren't 100% are not entirely true and verifiable
+- Don't make claims that are not entirely true and verifiable
 - Avoid making speculative claims about potential future updates
 - Don't neglect the core product for marketing
-- Don't bombard customers with 'deals', pop-ups, and other dark patterns. These devalue our product in the long run
+- Don't bombard customers with deals, pop-ups, and other dark patterns. These devalue our product in the long run
 - Don't criticize your competitors
 - Don't make false claims about your competitors
 
-Back in time, you realized the importance of committing to strategies you could maintain over an extended period of time. Marketing is a marathon, not a sprint. Also an experiment game. It requires ongoing effort to plan content and engage with the community. So, focus on sustainable tactics that you can consistently execute for the long haul.
+Back in time, you realized the importance of committing to strategies you could maintain over an extended period of time. Marketing is a marathon, not a sprint. Also an experiment game. So, focus on sustainable tactics that you can consistently execute for the long haul.
 
 For instance, with your Twitter channel, you only managed to keep it up for a few weeks and made just a handful of posts. You found it super challenging to come up with ideas for posts, and it honestly wasn't enjoyable at the end. That experience taught you the value of finding marketing methods that align with your interests and strengths.
 
@@ -51,17 +52,16 @@ For instance, with your Twitter channel, you only managed to keep it up for a fe
 
 Competing with larger companies based on the amount of content you produce is a losing battle. Instead, concentrate on creating high-quality content. Right now, you’re not Zappier, and that’s okay. Remember, one great article is worth more than 25 mediocre ones. Quality content performs better over time, especially when it comes to SEO. Think of your writing like a venture capitalist thinks about investments: spend time updating and improving your best pieces.
 
-Always ask yourself: "Is this content genuinely useful to my audience?" This question applies to everything you write, including SEO articles. Good keywords are not enough if the content isn’t helpful. People are overwhelmed with information and don’t have time for fluff. Remember, content is not just a marketing tool, it’s the foundation for building lasting relationships.
+Always ask yourself: "Is this content genuinely useful to the target audience?" This question applies to everything you write, including SEO articles. Good keywords are not enough if the content isn’t helpful. People are overwhelmed with information and don’t have time for fluff. Remember, content is not just a marketing tool, it’s the foundation for building lasting relationships.
 
 ## **Don’t fear validation**
+![Finding your first users, a plan present by PostHog](assets/images/fears-of-validating.png "Image created by PostHog")
 
-You may feel afraid about validating your idea, but it’s vital to push through that fear. The key is to test your concept quickly and gather real feedback. You should focus on developing tangible products and recruiting real users. It's important to keep in mind that users' behavior often diverges from your initial expectations. As Jason Fried wisely puts it, “You can't validate something that doesn't exist.” You need to be quick in this process. Getting initial usage—no matter how raw or imperfect—is crucial. It will help you determine whether your concept is compelling enough that early users are willing to endure some initial pain in pursuit of a solution to their problem.
+You may be afraid of validating your idea, but it is critical to overcome this fear. The key is to test your concept quickly and gather real feedback. You should focus on developing tangible products and recruiting real users. It's important to keep in mind that users' behavior often diverges from your initial expectations. As Jason Fried wisely puts it, “You can't validate something that doesn't exist.” You need to be quick in this process. Getting initial usage—no matter how raw or imperfect—is crucial. It will help you determine whether your concept is compelling enough that early users are willing to endure some initial pain in pursuit of a solution to their problem.
 
 ## **Finding your first users**
 
-![Image referenced from PostHog](assets/images/marketing-you-focused-email.png)
-
-Image referenced from PostHog
+![Finding your first users, a plan present by PostHog](assets/images/finding-first-users-posthog.png "Image created by PostHog")
 
 Before you start your search, make sure you have a plan for finding your initial users. You don't need an exhaustive blueprint, but it’s important to have a clear idea of who your users are and how to reach them. Be prepared to explore multiple channels, as not every approach will work. When you reach out, keep your requests short and to the point. Aim for two or three sentences, not a wall of text. Be direct about your intentions; clearly state if you’re seeking feedback or if you’re looking to sell. Remember, having a deadline helps. It gives you a reason to push yourself. Without that deadline, it’s easy to lose your focus, and as you know, finding those first users can be tough.
 
@@ -107,7 +107,7 @@ As a huge bonus: you’ll be less worn out because you’re focused on just **o
 
 ## **Marketing Week**
 
-![https://www.bannerbear.com/images/blog/5050.001.png](https://www.bannerbear.com/images/blog/5050.001.png)
+![Marketing week cycle, invented by Jon Yongfook, Bannerbear](https://www.bannerbear.com/images/blog/5050.001.png "Image created by Jon Yongfook, Bannerbear")
 
 Think back to when you discovered John from Bannerbear and his innovative approach to balancing coding and marketing. Just like you, John is a technical founder who loves the building process more than marketing and promoting the product.
 
@@ -142,19 +142,27 @@ When crafting your emails, remember to make them “you”-focused instead of �
 
 You don’t need to invest your entire day to make meaningful progress. Just one focused hour a day can be incredibly effective. Here’s a simple weekly action plan to maximize that hour, using specific tasks to enhance your visibility and network:
 
-| Day    | Activity                | Details                                                      |
-| ------ | ----------------------- | ------------------------------------------------------------ |
-| Monday | Social Media Engagement | - Post: Share an insightful article or your thoughts on a recent development trend. |
+Here's an example of weekly activity schedule 👇
 
-- Comment: Engage with others’ posts in your field—offer insights or ask questions.
-- Follow People: Identify and follow influential developers or thought leaders. |
-  | Tuesday | Visual Content | - Create GIFs: Capture your work process in GIFs to showcase your skills and projects.
-- Work Screen: Share a screenshot of your current project or workspace.
-- Figjam: Use Figjam for quick visual brainstorming and annotate with brief text. |
-  | Wednesday | Networking | - Chat with Other Developers: Reach out to fellow developers in your network. |
-  | Thursday | Short Post Creation | - Write a Short Post (300-400 words): Share an experience, tutorial, or insights.
-- Cross-Post: Share it across your social media platforms for broader reach. |
-  | Friday | Content Repurposing | - Repurpose Old Content: Update older blog posts or tutorials and share again. |
+**Monday: Social Media Engagement**
+- **Post:** Share an insightful article or your thoughts on a recent development trend.
+- **Comment:** Engage with others’ posts in your field—offer insights or ask questions.
+- **Follow People:** Identify and follow influential developers or thought leaders.
+
+**Tuesday Activity: Visual Content**
+- **Create GIFs:** Capture your work process in GIFs to showcase your skills and projects.
+- **Work Screen:** Share a screenshot of your current project or workspace.
+- **Figjam:** Use Figjam for quick visual brainstorming and annotate with brief text.
+
+**Wednesday Activity: Networking**
+- **Chat with Other Developers:** Reach out to fellow developers in your network.
+
+**Thursday Activity: Short Post Creation**
+- **Write a Short Post (300-400 words):** Share an experience, tutorial, or insights.
+- **Cross-Post:** Share it across your social media platforms for broader reach.
+
+**Friday Activity: Content Repurposing**
+- **Repurpose Old Content:** Update older blog posts or tutorials and share again.
 
 Remember, even just one hour a day can lead to meaningful development in your professional presence and connections. Stay focused, and enjoy the process!
 
