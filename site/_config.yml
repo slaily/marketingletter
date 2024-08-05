@@ -1,0 +1,14 @@
+title: Marketing Letter
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+repository: just-the-docs/just-the-docs # for github-metadata
+favicon_ico: "/assets/images/favicon.png"
+
+
+nav_enabled: true
+
+# External navigation links
+nav_external_links:
+  - title: View on GitHub
+    url: https://github.com/slaily/marketingletter
