@@ -9,8 +9,6 @@ Hi, I’m Iliyan, a programmer. Like many of us who love the building process, I
 
 The hard truth is, marketing is a necessity. Getting your product noticed and attracting your first users. I know by heart how challenging it can be for us as programmers to switch gears from coding to marketing. But just like in the insightful book [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by [Jason Fried](https://x.com/jasonfried), [David Heinemeier Hansson](https://x.com/dhh) from [37signals](https://37signals.com/), I believe that marketing doesn’t have to be crazy for us.
 
-Read, adapt, and apply what you like and find useful to your marketing journey.
-
 # Notes to myself about marketing
 
 Dear Self,
@@ -55,6 +53,11 @@ For instance, with your Twitter channel, you only managed to keep it up for a fe
 
 ## **Crafting compelling content**
 
+{: .note }
+> - One great article is worth more than 25 mediocre ones
+> - SEO keywords are not enough if the content isn’t helpful
+> - Content is the foundation for building lasting relationships
+
 Competing with larger companies based on the amount of content you produce is a losing battle. Instead, concentrate on creating high-quality content. Right now, you’re not Zappier, and that’s okay. Remember, one great article is worth more than 25 mediocre ones. Quality content performs better over time, especially when it comes to SEO. Think of your writing like a venture capitalist thinks about investments: spend time updating and improving your best pieces.
 
 Always ask yourself: "Is this content genuinely useful to the target audience?" This question applies to everything you write, including SEO articles. Good keywords are not enough if the content isn’t helpful. People are overwhelmed with information and don’t have time for fluff.
@@ -64,11 +67,21 @@ Remember, content is not just a marketing tool, it’s the foundation for buildi
 ## **Don’t fear validation**
 ![Finding your first users, a plan present by PostHog](assets/images/fears-of-validating.png "Image created by PostHog")
 
+{: .note }
+> - You can’t validate something that doesn’t exist
+> - Getting first use, no matter how raw or imperfect your product is
+> - You need to be quick in this process
+
 You may be afraid of validating your idea, but it is critical to overcome this fear. The key is to test your concept quickly and gather real feedback. You should focus on developing tangible products and recruiting real users. It's important to keep in mind that users' behavior often diverges from your initial expectations. As Jason Fried wisely puts it, “You can't validate something that doesn't exist.” You need to be quick in this process. Getting initial usage—no matter how raw or imperfect—is crucial. It will help you determine whether your concept is compelling enough that early users are willing to endure some initial pain in pursuit of a solution to their problem.
 
 ## **Finding your first users**
 
 ![Finding your first users, a plan present by PostHog](assets/images/finding-first-users-posthog.png "Image created by PostHog")
+
+{: .note }
+> - You can’t validate something that doesn’t exist
+> - Getting first use, no matter how raw or imperfect your product is
+> - You need to be quick in this process
 
 Before you start your search, make sure you have a plan for finding your initial users. You don't need an exhaustive blueprint, but it’s important to have a clear idea of who your users are and how to reach them. Be prepared to explore multiple channels, as not every approach will work. When you reach out, keep your requests short and to the point. Aim for two or three sentences, not a wall of text. Be direct about your intentions; clearly state if you’re seeking feedback or if you’re looking to sell. Remember, having a deadline helps. It gives you a reason to push yourself. Without that deadline, it’s easy to lose your focus, and as you know, finding those first users can be tough.
 
