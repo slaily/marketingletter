@@ -3,14 +3,19 @@ title: Letter
 layout: home
 ---
 
-# The Letter
-
+![as](https://1.gravatar.com/avatar/a82597521d3afb370e20d6fa6586f5ede6906563870b3a7f94fee6cb29085a2c?size=100)
 
 Hi, I'm Iliyan, a seasoned software programmer. Like many of us in the tech world, I’ve always struggled when it came to marketing my own side ventures. That’s why I decided to collect and organize my thoughts into this marketing letter for myself. It’s designed to help developers like us confidently navigate social media, networking, and content creation.
 
 The hard truth is, marketing is a necessity. It’s the key to getting your product noticed, attracting your first customers, and building a standout brand. I know how tough it can be for a developer to shift gears and think about marketing. But just like the great book *It Doesn't Have to Be Crazy at Work* by 37signals, I believe marketing doesn’t have to be overwhelming for us either.
 
 In this letter, you’ll find a collection of thoughts and nuggets of wisdom I’ve picked up from others and through my own experiences. The intent is to serve as a roadmap and quick reference for those moments when you need a bit of guidance in your marketing efforts.
+
+# The Letter
+
+Dear Self,
+
+I wrote this marketing handbook for you, so you can read it and have it as a pocket reference. Remember, the goal of marketing is to help you or your product get noticed.
 
 **Table of Contents**
 1. [Introduction](#introduction)
@@ -28,12 +33,6 @@ In this letter, you’ll find a collection of thoughts and nuggets of wisdom I�
 13. [Bucket of ideas (when you stuck)](#bucket-of-ideas-when-stuck)
 14. [Don’t follow the crowd](#dont-follow-the-crowd)
 15. [Have fun](#have-fun)
-
-## **Introduction**
-
-Dear Self,
-
-I wrote this marketing handbook for you, so you can read it and have it as a pocket reference. Remember, the goal of marketing is to help you or your product get noticed.
 
 ## **Principles**
 
