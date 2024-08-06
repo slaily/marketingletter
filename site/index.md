@@ -79,11 +79,13 @@ You may be afraid of validating your idea, but it is critical to overcome this f
 ![Finding your first users, a plan present by PostHog](assets/images/finding-first-users-posthog.png "Image created by PostHog")
 
 {: .note }
-> - You can’t validate something that doesn’t exist
-> - Getting first use, no matter how raw or imperfect your product is
-> - You need to be quick in this process
+> - Just know who your users are
+> - You don’t need an in-depth plan
+> - Be prepared to try different channels
+> - When you reach out, keep your message short
+> - Be direct about your intentions
 
-Before you start your search, make sure you have a plan for finding your initial users. You don't need an exhaustive blueprint, but it’s important to have a clear idea of who your users are and how to reach them. Be prepared to explore multiple channels, as not every approach will work. When you reach out, keep your requests short and to the point. Aim for two or three sentences, not a wall of text. Be direct about your intentions; clearly state if you’re seeking feedback or if you’re looking to sell. Remember, having a deadline helps. It gives you a reason to push yourself. Without that deadline, it’s easy to lose your focus, and as you know, finding those first users can be tough.
+Before you start your search, make sure you have a plan for finding your initial users. You don't need an exhaustive plan, but it’s important to have a clear idea of who your users are and how to reach them. Be prepared to explore multiple channels, as not every approach will work. When you reach out, keep your requests short and to the point. Aim for two or three sentences, not a wall of text. Be direct about your intentions; clearly state if you’re seeking feedback or if you’re looking to sell. Remember, having a deadline helps. It gives you a reason to push yourself. Without that deadline, it’s easy to lose your focus, and as you know, finding those first users can be tough.
 
 ## **Pulling users in, not pushing them away**
 
