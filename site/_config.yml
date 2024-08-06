@@ -1,8 +1,7 @@
-title: Marketing notes for programmers
+title: Marketing notes for programmer
 description: A programmer's personal notes and reflections on marketing.
 theme: just-the-docs
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://marketingnotes.dev" # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico: "/assets/images/favicon.png"
 search_enabled: false
 # External navigation links
