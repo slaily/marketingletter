@@ -1,21 +1,23 @@
 ---
-title: Letter
+title: Notes
 layout: home
 ---
 
-![as](https://1.gravatar.com/avatar/a82597521d3afb370e20d6fa6586f5ede6906563870b3a7f94fee6cb29085a2c?size=100)
+![as](https://1.gravatar.com/avatar/a82597521d3afb370e20d6fa6586f5ede6906563870b3a7f94fee6cb29085a2c?size=100&fit=cover&mask=circle)
 
-Hi, I'm Iliyan, a seasoned software programmer. Like many of us in the tech world, I’ve always struggled when it came to marketing my own side ventures. That’s why I decided to collect and organize my thoughts into this marketing letter for myself. It’s designed to help developers like us confidently navigate social media, networking, and content creation.
+Hi, I’m Iliyan, a programmer. Like many of us who love the building process, I've often struggled with marketing my own side ventures. That's why I decided to compile my thoughts, reflections, and insights from others that I like into these marketing notes for myself.
 
-The hard truth is, marketing is a necessity. It’s the key to getting your product noticed, attracting your first customers, and building a standout brand. I know how tough it can be for a developer to shift gears and think about marketing. But just like the great book *It Doesn't Have to Be Crazy at Work* by 37signals, I believe marketing doesn’t have to be overwhelming for us either.
+The hard truth is, marketing is a necessity. Getting your product noticed and attracting your first users. I know by heart how challenging it can be for us as programmers to switch gears from coding to marketing. But just like in the insightful book [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by [Jason Fried](https://x.com/jasonfried), [David Heinemeier Hansson](https://x.com/dhh) from [37signals](https://37signals.com/), I believe that marketing doesn’t have to be crazy for us.
 
-In this letter, you’ll find a collection of thoughts and nuggets of wisdom I’ve picked up from others and through my own experiences. The intent is to serve as a roadmap and quick reference for those moments when you need a bit of guidance in your marketing efforts.
+Read, adapt, and apply what you like and find useful to your marketing journey.
 
-# The Letter
+# Notes to myself about marketing
 
 Dear Self,
 
-I wrote this marketing handbook for you, so you can read it and have it as a pocket reference. Remember, the goal of marketing is to help you or your product get noticed.
+I created this marketing notes as a handy reference for you. Keep it close, and use it whenever you need to do marketing. 
+
+Remember, the goal of marketing is to make you or your product get noticed.
 
 **Table of Contents**
 1. [Introduction](#introduction)
@@ -55,7 +57,9 @@ For instance, with your Twitter channel, you only managed to keep it up for a fe
 
 Competing with larger companies based on the amount of content you produce is a losing battle. Instead, concentrate on creating high-quality content. Right now, you’re not Zappier, and that’s okay. Remember, one great article is worth more than 25 mediocre ones. Quality content performs better over time, especially when it comes to SEO. Think of your writing like a venture capitalist thinks about investments: spend time updating and improving your best pieces.
 
-Always ask yourself: "Is this content genuinely useful to the target audience?" This question applies to everything you write, including SEO articles. Good keywords are not enough if the content isn’t helpful. People are overwhelmed with information and don’t have time for fluff. Remember, content is not just a marketing tool, it’s the foundation for building lasting relationships.
+Always ask yourself: "Is this content genuinely useful to the target audience?" This question applies to everything you write, including SEO articles. Good keywords are not enough if the content isn’t helpful. People are overwhelmed with information and don’t have time for fluff.
+
+Remember, content is not just a marketing tool, it’s the foundation for building lasting relationships.
 
 ## **Don’t fear validation**
 ![Finding your first users, a plan present by PostHog](assets/images/fears-of-validating.png "Image created by PostHog")
@@ -82,45 +86,31 @@ Don’t fall into the trap of thinking that companies will keep long-term custom
 
 ## **Crafting your positioning statement**
 
-This is about how you position your product against others in your target market. A positioning statement typically consists of one or two sentences that highlight your product's primary appeal and its place in the market.
-
-**Start by writing a concise statement about your product**, often referred to as your “elevator pitch.” This pitch should clearly communicate the concept of your product in just two to three sentences, capturing its essence and what makes it interesting and compelling.
-
-Don’t stress about finding the perfect wording right away or trying to create the most clever tagline. Focusing too much on perfection will only lead to writer’s block. Remember, you’ll likely refine and tweak your statement multiple times before presenting it to actual prospective customers or partners.
+This is about how you position your product against others in your target market. Write a concise statement about your product, often referred to as your elevator pitch. This pitch should clearly communicate the concept of your product in just two to three sentences, capturing its essence and what makes it interesting and compelling. Don’t stress about finding the perfect wording right away or trying to create the most clever tagline. Focusing too much on perfection will only lead to writer’s block. Remember, you’ll likely refine and tweak your statement multiple times before presenting it to actual prospective customers or partners.
 
 ## **Build a personal brand on a social platform**
 
-These days, people buy from people they relate to, trust, and like.
-
-As a one-person business owner, your personal brand is a powerful asset that can help you connect with your target audience, establish credibility, and drive business growth.
-
-One of the most effective ways to build your personal brand is by showing up and posting content online.
-
-Remember, building a personal brand takes time and consistency. So don't get discouraged if you're not seeing traction right away.
-
-Let your personality shine through in your online presence. It's much easier for people to relate to you if they feel like they're getting to know the real you.
+These days, people buy from people they relate to, trust, and like. As a one-person business owner, your personal brand is a powerful asset that can help you connect with your target audience, establish credibility, and drive business growth. One of the most effective ways to build your personal brand is by showing up and posting content online. Remember, building a personal brand takes time and consistency. So don't get discouraged if you're not seeing traction right away. Let your personality shine through in your online presence. It's much easier for people to relate to you if they feel like they're getting to know the real you.
 
 ## **Consistency beats hacks & trends**
 
-Start with the handful of channels that you *personally use and understand*. If you’re a Twitter person but rarely use Facebook and can’t comprehend the interest of Pinterest, then spend a few months trying to build a corporate Twitter presence and buy Twitter ads. So, stay with what you know, where you’re comfortable, and focus on doubling your business on that channel. Sometimes, getting outside your comfort zone is wrong. Spreading yourself thin is even more wrong.
+Start with the handful of channels that you personally use and understand. If you’re a Twitter person but rarely use Facebook and can’t comprehend the interest of Pinterest, then spend a few months trying to build a corporate Twitter presence and buy Twitter ads. So, stay with what you know, where you’re comfortable, and focus on doubling your business on that channel. Sometimes, getting outside your comfort zone is wrong. Spreading yourself thin is even more wrong. Don’t treat it like an assembly line you’re pushing content through in exchange for likes. Instead, treat it like you’re talking to a bunch of human beings you care about and who you genuinely want to help.
 
-Don’t treat it like an assembly line you’re pushing content through in exchange for likes. Instead, treat it like you’re talking to a bunch of human beings you care about and who you genuinely want to help.
-
-As a huge bonus: you’ll be less worn out because you’re focused on just **one** social network and just **one** group of friends. It’s much less overwhelming that way.
+As a huge bonus: you’ll be less worn out because you’re focused on just one social network and just one group of friends. It’s much less overwhelming that way.
 
 ## **Marketing Week**
 
 ![Marketing week cycle, invented by Jon Yongfook, Bannerbear](https://www.bannerbear.com/images/blog/5050.001.png "Image created by Jon Yongfook, Bannerbear")
 
-Think back to when you discovered John from Bannerbear and his innovative approach to balancing coding and marketing. Just like you, John is a technical founder who loves the building process more than marketing and promoting the product.
+Think back to when you discovered [John Yongfook](https://www.yongfook.com/) from [Bannerbear](https://www.bannerbear.com/) and his innovative approach to [balancing coding and marketing](https://www.bannerbear.com/blog/why-you-should-do-50-coding-and-50-marketing-as-a-solo-tech-founder/). Just like you, John is a technical person who loves the building process more than marketing and promoting the product.
 
-He divides his time into two-week cycles, and it's a nice routine to follow as a tech guy:
+He divides his time into two-week cycles, and it's a nice routine to follow as a programmer:
 
-**Week 1:** Focus solely on coding and building features for your SaaS product.
+**Week 1:** Focus solely on coding and building features for your product.
 
 **Week 2:** Transition to marketing—promote your work, share insights, and engage in any activity that relates to marketing.
 
-During marketing week, John suggests considering the following activities:
+During marketing week, John suggests considering the [following activities](https://www.bannerbear.com/blog/one-year-of-marketing-a-saas-from-10k-to-20k-mrr/):
 
 - Tweet something of interest to your target market.
 - Participate in forums where your customers are active.
@@ -129,13 +119,15 @@ During marketing week, John suggests considering the following activities:
 - Write a blog post aimed at your target audience.
 - Write a weekly or monthly newsletter with tips and advice.
 
-This simple split helps reduce mental overhead. Remember, the more complicated you make it, the harder it becomes to stick to your routine. So keep it straightforward: one week for coding and one week for marketing. Do you remember, you’ve tried this approach before and gained some small victories with one of your early products? 
+Remember, the more complicated you make it, the harder it becomes to stick to your routine. So keep it straightforward: one week for coding and one week for marketing. 
+
+Do you remember, you’ve tried this approach before and gained some small victories with one of your early products? 
 
 ## Emailing (you focused approach)
 
 Paid advertising is becoming increasingly expensive. Consider an email campaign that costs about $100 but can yield results similar to a $10,000 ad budget. Everyone has an email account—yes, even the Pope, the President, and your grandma! Email campaigns are quick to launch, cheap to run, and allow you to target specific audiences. Plus, they're predictable and not reliant on third-party algorithms.
 
-Remember: **Don’t blast your audience.** No one likes being bombarded with mass emails.
+Remember: Don’t blast your audience. No one likes being bombarded with mass emails.
 
 When crafting your emails, remember to make them “you”-focused instead of “I”-focused. Center your message on the recipient, not your business. Whether you’re promoting your services as a consultant, pitching a guest article, or sharing new content, always keep the recipient in mind.
 
@@ -143,7 +135,7 @@ When crafting your emails, remember to make them “you”-focused instead of �
 
 ## **Just one hour a day (it shouldn’t be a full-time job)**
 
-You don’t need to invest your entire day to make meaningful progress. Just one focused hour a day can be incredibly effective. Here’s a simple weekly action plan to maximize that hour, using specific tasks to enhance your visibility and network:
+You don't need to spend your whole day to make meaningful progress. Just one focused hour a day can work wonders. Think of marketing as planting seeds. Everything takes time to grow, and some things are beyond your control.
 
 Here's an example of weekly activity schedule 👇
 
@@ -167,7 +159,9 @@ Thursday Activity: Short Post Creation
 Friday Activity: Content Repurposing
 - Repurpose Old Content: Update older blog posts or tutorials and share again.
 
-Remember, even just one hour a day can lead to meaningful development in your professional presence and connections. Stay focused, and enjoy the process!
+Remember, even just one hour a day can lead to meaningful development in your professional presence and connections. 
+
+Еnjoy the process!
 
 ## **Bucket of ideas (when you stuck)**
 
